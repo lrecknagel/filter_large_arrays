@@ -1,0 +1,7 @@
+{
+  "name": "flarr",
+  "version": "0.0.1",
+  "main": "./build/Release/flarr",
+  "gypfile": true,
+  "author": "Lucas Recknagel <lucasrecknagel@protonmail.com>", "license": "ISC"
+}
